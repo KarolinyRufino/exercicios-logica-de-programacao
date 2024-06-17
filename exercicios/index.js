@@ -1,3 +1,12 @@
+/*
+## Objetivo
+Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar as mensagens.
+
+## Saída
+Ao final deve se exibir uma mensagem:
+"O Herói {nome} está no nível de {nivel}"
+
+*/ 
 let nome = "JuninhoDoXp";
 let xp = 4680;
 let nivel;
